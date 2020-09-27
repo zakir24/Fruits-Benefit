@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".f9">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <TextView
+                android:textSize="18sp"
+                android:textColor="#008000"
+                android:textStyle="bold"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:text="আনারসে যত উপকার:\n"> </TextView>
+
+            <TextView
+                android:textSize="18sp"
+                android:textColor="#000000"
+                android:layout_marginRight="5dp"
+                android:layout_marginLeft="5dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="
+১.আনারস পুষ্টির বেশ বড় একটি উৎস। আনারসে রয়েছে প্রচুর পরিমাণে ভিটামিন এ এবং সি, ক্যালসিয়াম, পটাশিয়াম ও ফসফরাস। এসব উপাদান আমাদের দেহের পুষ্টির অভাব পূরণে কার্যকরী ভূমিকা পালন করে।\n\n
+২.শুনতে অবাক লাগলেও আনারস আমাদের ওজন কমাতে সাহায্য করে। কারণ আনারসে প্রচুর ফাইবার এবং অনেক কম ফ্যাট রয়েছে। সকালে আনারস বা সালাদ হিসেবে এর ব্যবহার অথবা আনারসের জুস অনেক বেশি স্বাস্থ্যকর।\n\n
+৩.আনারসে রয়েছে প্রচুর পরিমাণে ক্যালসিয়াম ও ম্যাঙ্গানিজ। ক্যালসিয়াম হাড়ের গঠনে বেশ গুরুত্বপূর্ণ ভূমিকা পালন করে এবং ম্যাঙ্গানিজ হাড়কে করে তোলে মজবুত।\n\n
+৪.আনারসের ক্যালসিয়াম দাঁতের সুরক্ষায় কাজ করে। মাড়ির যে কোনো সমস্যা সমাধান করতে বেশ কার্যকর ভূমিকা পালন করে। প্রতিদিন আনারস খেলে দাঁতে জীবাণুর আক্রমণ কম হয় এবং দাঁত ঠিক থাকে।\n\n
+৫.আনারস আমাদের হজমশক্তি বৃদ্ধি করতে বেশ কার্যকরী। আনারসে রয়েছে ব্রোমেলিন, যা আমাদের হজমশক্তিকে উন্নত করতে সাহায্য করে। বদহজম বা হজমজনিত যে কোনো সমস্যা থেকে মুক্তি পেতে প্রতিদিন আনারস খাওয়া অত্যন্ত জরুরি।\n\n
+৬.দেহে রক্ত জমাট বাঁধতে বাধা দেয় এই ফল। ফলে শিরা-ধমনির (রক্তবাহী নালি) দেয়ালে রক্ত না জমার জন্য সারা শরীরে সঠিকভাবে রক্ত যেতে পারে। হৃদপিণ্ড আমাদের শরীরে অক্সিজেনযুক্ত রক্ত সরবরাহ করে। আনারস রক্ত পরিষ্কার করে হৃদপিণ্ডকে কাজ করতে সাহায্য করে।\n\n">
+            </TextView>
+
+            <TextView
+                android:textSize="18sp"
+                android:textColor="#ea1f1b"
+                android:textStyle="bold"
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="5dp"
+                android:layout_marginLeft="5dp"
+
+                android:text="যেসব পার্শ্বপ্রতিক্রিয়া হতে পারে:\n "> </TextView>
+
+            <TextView
+                android:textSize="18sp"
+                android:textColor="#000000"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="5dp"
+                android:layout_marginLeft="5dp"
+
+                android:text="
+১.আনারস খাওয়ার ফলে অনেক নারী ও পুরুষের দেহে অ্যালার্জী দেখা দিতে পারে। আনারস খাওয়ার ফলে অ্যালার্জীর উপসর্গ হল ঠোঁট ফুলে যাওয়া ও গলায় সুরসুরি বোধ হওয়া।তাই আনারস খাওয়ার আগে তা কেটে লবন পানি দিয়ে ধুয়ে নেয়া উচিত। এভাবে ধুয়ে নিয়ে খেলে কোন সমস্যা হওয়ার সম্ভবনা থাকেনা।\n\n
+২.আনারসের কারণে নারীদের গর্ভপাত হওয়ার ঝুঁকি থাকে। গর্ভাবস্থায় থাকলে নারীদের আনারস খেতে বারণ করা হয়। তাছাড়া গর্ভাবস্থার পরে চাইলে আনারস খেতে পারেন কিন্তু শরীরের অবস্থা বুঝে ডাক্তারের সাথে পরামর্শ নিয়ে খেতে হবে। \n\n
+৩.অনেকেই কাঁচা আনারস ব্যবহার করে থাকেন জুস বানানোর জন্য কিন্তু এটি দেহের জন্য ক্ষতিকর এবং খুব বিষাক্ত। এবং মাঝে মাঝে কাঁচা আনারস খাওয়ার কারণে বমির প্রবনতা দেখা দেয়।\n\n
+৪.ব্রমিলেইন আনারসের একটি উপাদান যা আমদের দেহের প্রোটিনের পরিমাণ নষ্ট করাতে দায়ী থাকে। এবং এই ফল দেহে ডার্মাটাইটিস ও অ্যালার্জী সংক্রামন করে।\n\n
+৫.আনারস আমাদের দাঁতের জন্য ক্ষতিকর। যাদের দাতে কেভিটিস ও জিংজাইভেটিভস এর সমস্যা আছে তাদের আনারস না খাওয়াই ভালো।\n\n">
+>
+
+            </TextView>
+        </LinearLayout>
+    </ScrollView>
+
+
+
+</LinearLayout>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".f18">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <TextView
+                android:textSize="18sp"
+                android:textColor="#008000"
+                android:textStyle="bold"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:text="নারিকেলে যত উপকার:\n"> </TextView>
+
+            <TextView
+                android:textSize="18sp"
+                android:textColor="#000000"
+                android:layout_marginRight="5dp"
+                android:layout_marginLeft="5dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="
+গরমের দিনে পিপাসা কমাতে নারিকেলের পানির কোন তুলনা নেই। নারিকেলের পানির কারনে আপনার দেহ ও মনে প্রশান্তি বিরাজ করবে। শুধু পিপাসা দূর করতেই নয়, আরও অনেক উপকারিতা রয়েছে। আসুন জেনে নেওয়া যাক নারিকেলের উপকারিতা-\n\n
+
+১. ত্বকের যে কোন ধরনের দাগ দূর করতে নারিকেলের জুরি নেই। মুখের ব্রণ এর দাগ দূর করতে নারিকেল কার্যকরী ভূমিকা পালন করে। প্রতিদিন শুধু নারিকেলের পানি দিয়ে মুখ ধৌত করুন। এটি মুখের টোনার হিসেবে কাজ করে। মুখের ত্বককে ময়শ্চেরাইজার করে।\n\n
+
+২.  ক্লান্তি দূর করতে নারিকেলের পানি কার্যকরী ভূমিকা পালন করে। পেটে ব্যথা দূর করে। নারিকেলের পানি শরীরের ইলেক্ট্রলাইটের পরিমাণ সঠিক রাখে। মদ্যপান এর কারনে শরীরে যে ক্ষতি সাধিত হয় তা নারিকেলের পানি দূর করতে সাহায্য করে।\n\n
+
+৩.  নারিকেলের পানি পটাশিয়াম সমৃদ্ধ। যা আমাদের পেশীর বাধা কে মুক্ত করতে সাহায্য করে। তাই, পেশীর যেকোনো সমস্যা হলে নারিকেলের পানি পান করুন। এতে সমস্যা দূর হতে সাহায্য হবে।\n\n
+
+৪. চুলের জন্য সব থেকে বেশি উপকারী নারিকেলের পানি। নারিকেলের পানি পান করলেও চুলের জন্য ভালো। আবার নারিকেলের পানি দিয়ে চুল ধৌত করলেও অনেক উপকার পাওয়া যায়। নারিকেলের পানি চুল ধৌত করার পর ব্যাবহার করলে কন্ডিশনার এর মত উপকারিতা পাওয়া যায়।\n\n
+
+৫.  নারিকেলের মধ্যে চর্বি কন্টেন্ট অত্যন্ত কম। তাই, যত ইচ্ছা নারিকেলের পানি খেতে পারেন। এর সমৃদ্ধ প্রকৃতির কারনে আপনার ক্ষুদার পরিমাণ কমবে। আপনি আরও বেশি সক্রিয় হতে পারবেন।\n\n
+
+৬. নারিকেলের পানিতে যে পটাশিয়াম ও প্রাকৃতিক চিনি রয়েছে তা বিষণ্ণতা মুক্ত করতে সাহায্য করে। এছাড়াও এর স্বাদ আপনাকে পরিতৃপ্ত করবে। এতে আপনার মনোভাব ভালো থাকবে। এতে যে ইলেক্ট্রোলাইট রয়েছে তা রক্তচাপ হ্রাস করতে সাহায্য করে। প্রতিদিন সকালে একটি নারিকেলের পানি খেলে রক্তচাপের সমস্যা দূর হবে।\n\n
+৭.  বাজারের অন্য যেকোনো পানীয় থেকে নারিকেলের পানি অনেক বেশি কার্যকরী। এতে মানবদেহের জন্য প্রয়োজনীয় পাঁচটি জরুরি উপাদান রয়েছে। ক্যালসিয়াম, ম্যাগনেসিয়াম, পটাশিয়াম, ফসফরাস ও সোডিয়াম রয়েছে। যে কোন ধরনের রোগ থাকুক নারিকেলের পানি সবসময় কার্যকরী।\n\n">
+
+            </TextView>
+        </LinearLayout>
+    </ScrollView>
+
+
+
+</LinearLayout>
+

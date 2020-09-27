@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".f19">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <TextView
+                android:textSize="18sp"
+                android:textColor="#008000"
+                android:textStyle="bold"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:text="গাজরে যত উপকার:\n"> </TextView>
+
+            <TextView
+                android:textSize="18sp"
+                android:textColor="#000000"
+                android:layout_marginRight="5dp"
+                android:layout_marginLeft="5dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="
+১.  গাজরের ভিটামিন ও মিনারেলস দেহের রোগ প্রতিরোধ ক্ষমতা বাড়ায়, যার ফলে সর্দি-ঠাণ্ডা ও কাশি থেকে মুক্তির জন্য আমাদের দেহই কাজ করে থাকে। \n\n
+২.  গাজরে প্রচুর পরিমাণ ভিটামিন ‘এ’ রয়েছে। গাজরের মধ্যে থাকা বিটা ক্যারোটিন দৃষ্টিশক্তি বাড়াতে সাহায্য করে। চোখের অন্যান্য সমস্যা, দৃষ্টিশক্তি হ্রাস ইত্যাদির মতো সমস্যায় বাধা দেয়। \n\n
+৩.  গাজরের মধ্যে ক্যারটিনয়েড অ্যান্টিঅক্সিডেন্ট থাকে। ক্যান্সার প্রতিরোধে এবং রক্ত শুদ্ধিকরণের সাহায্য করে এই অ্যান্টিঅক্সিডেন্ট। এছাড়াও মুখের থেকে দাগ ছোপ দূর করে, বয়সের ছাপ দূর করতে সাহায্য করে গাজরের জুস।\n\n
+৪. হজমের পর খাদ্যের কিছু উচ্ছিষ্ট আমাদের শরীরে থেকে যায়। যাকে ফ্রি র‍্যাডিকেলস বা মৌল বলে, এই ফ্রি র‍্যাডিকেলস শরীরের কিছু কোষ নষ্ট করে। অ্যান্টিঅক্সিডেন্ট জাতীয় খাবার এই ধরনের মৌলের বিরুদ্ধে লড়াই করে। শরীরে ক্যানসারের কোষ উৎপাদন কম হয়।\n\n
+৫.  শারীরিকভাবে কর্মক্ষম থাকা, পর্যাপ্ত ঘুম এবং চাপ মুক্ত থাকলে হার্ট সুস্থ থাকে। গাজর ডায়েটরি ফাইবার এবং অ্যান্টিঅক্সিডেন্টে পরিপূর্ণ থাকে। এই উপাদানগুলো ধমনির ওপর কোনো কিছুর আস্তরণ জমতে না দিয়ে রক্ত চলাচল স্বাভাবিক রাখে, হার্টকে সুস্থ রাখে।\n\n
+৬. অ্যান্টিঅক্সিডেন্ট এবং পটাশিয়ামের মতো খনিজের উপস্থিতি আছে গাজরে। এই উপাদানগুলো ত্বককে রাখে সুস্থ এবং সতেজ, এসব পুষ্টি উপাদান ত্বক শুকিয়ে যাওয়া, স্কিন টোনকে উন্নত করা এবং ত্বকে দাগ পড়া থেকে রক্ষা করে।\n\n
+৭.  কোলেস্টেরল এবং ব্লাড সুগার নিয়ন্ত্রণের ক্ষেত্রে গাজর ভীষণভাবে সাহায্য করে। গাজরের মধ্যে থাকা পটাশিয়ামই এর মূল কারণ। গাজরে ক্যালরি এবং সুগারের উপাদান খুবই কম। এ ছাড়া ডায়াবেটিস প্রতিরোধে সাহায্য করে, ফলে ওজন কমে।\n\n">
+
+            </TextView>
+        </LinearLayout>
+    </ScrollView>
+
+
+
+</LinearLayout>
+

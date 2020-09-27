@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".f14">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <TextView
+                android:textSize="18sp"
+                android:textColor="#008000"
+                android:textStyle="bold"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:text="খেজুরে যত উপকার:\n"> </TextView>
+
+            <TextView
+                android:textSize="18sp"
+                android:textColor="#000000"
+                android:layout_marginRight="5dp"
+                android:layout_marginLeft="5dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="
+শরীরের প্রয়োজনীয় আয়রনের অনেকটাই এই খেজুর থেকে মেলে। তবে ডায়াবেটিস রোগ থাকলে অনেক সময় প্রচলিত খেজুরের বদলে শুকনো খেজুরকে ডায়েটে রাখতে বলেন বিশেষজ্ঞরা। শুকনো খেজুরেও শরীরের দরকারি খনিজ মেলে। ভিটামিনের চাহিদাও পূরণ হয়। মরু অঞ্চলের এ ফলের ঔষধিগুণ ও স্বাদ, দুই কারণেই এটি জনপ্রিয়। \n\n
+
+১. খেজুরের অ্যান্টিঅক্সিডেন্ট রোগ প্রতিরোধের ক্ষমতা রাখে। এতে প্রচুর ভিটামিন, খনিজ, ক্যালসিয়াম, পটাশিয়াম রয়েছে। আঁশের জোগানও যথেষ্ট। তাই এ ফল ডায়েটে রাখতে পারলে শরীরের প্রয়োজনীয় উপাদান সহজেই মেলে।\n\n
+
+২. রক্তস্বল্পতা রয়েছে এমন রোগীর ক্ষেত্রে খেজুর খুবই প্রয়োজনীয়। একজন সুস্থ মানুষের শরীরে যতটুকু আয়রন প্রয়োজন, তার প্রায় ১১ ভাগ পূরণ করে খেজুর।\n\n
+
+৩. চিনির অন্যতম সেরা বিকল্প খেজুরের রস ও গুড়। খেজুরের গুড় চিনির পরিবর্তেও অনেক সময় ব্যবহার করা হয়।\n\n
+
+৪. হৃদস্পন্দনের হার ঠিক রাখতে সাহায্য করে খেজুরের ভেতরে থাকা নানা খনিজ। তাই হার্টের স্বাস্থ্যের জন্যও এই ফল উপকারী।\n\n
+
+৫. খেজুরে থাকা সোডিয়াম রক্তের চাপকে নিয়ন্ত্রণ করে। তাই উচ্চ রক্তচাপের রোগীর ডায়াটে খেজুর রাখা উচিত।\n\n
+
+৬. খেজুরে লিউটেন ও জিক্সাথিন থাকায় তা রেটিনার স্বাস্থ্যকে ভালো রাখে।\n\n
+">
+
+            </TextView>
+        </LinearLayout>
+    </ScrollView>
+
+
+
+
+</LinearLayout>

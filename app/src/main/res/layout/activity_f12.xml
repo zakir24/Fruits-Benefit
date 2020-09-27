@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".f12">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <TextView
+                android:textSize="18sp"
+                android:textColor="#008000"
+                android:textStyle="bold"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+
+                android:text="কমলায় যত উপকার:\n"> </TextView>
+
+            <TextView
+                android:textSize="18sp"
+                android:textColor="#000000"
+                android:layout_marginRight="5dp"
+                android:layout_marginLeft="5dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="১. চোখের দৃষ্টি শক্তি ঠিক রাখতে দরকার প্রয়োজনীয় ভিটামিন এ। আমরা সবাই জানি ভিটামিন এ এর অভাবে রাতকানা রোগ হয়। কমলায় বেশ ভালো পরিমাণে ভিটামিন এ রয়েছে।\n\n
+২. কমলায় প্রচুর পরিমাণ ভিটামিনের পাশাপাশি রয়েছে আলফা ও বেটা ক্যারোটিনের মতো ফ্ল্যাভনয়েড অ্যান্টিঅক্সিডেন্ট সহ অন্যান্য অ্যান্টিঅক্সিডেন্ট যৌগ যা ক্যান্সার প্রতিরোধ করতে সাহায্য করে। কমলায় উচ্চমাত্রার পুষ্টিগুণ হচ্ছে ফ্ল্যাভনয়েড যা ফুসফুস এবং ক্যাভিটি ক্যান্সার প্রতিরোধে কার্যকর।\n\n
+৩. কমলা আপনার প্রতিদিনের ভিটামিন সি এর চাহিদা পূরণ করে। একই সঙ্গে এ ফলটিতে রয়েছে প্রচুর পরিমাণ অ্যান্টি-অক্সিডেন্ট জাতীয় উপাদান। এ পুষ্টি উপাদানসমূহ রোগ-প্রতিরোধ ক্ষমতা বাড়ায় এবং ছোটবড় নানা ব্যাধি ও সংক্রমণ থেকে সুরক্ষা দেয়। মুখে ভিটামিন সি এর অভাবে যে ঘাঁ হয় সেটার ঔষুধ হিসেবে কমলা অনেক ভাল কাজ করে। এটি ব্লাড প্রেসার নিয়ন্ত্রণে সাহায্য করে। কমলাতে উপস্থিত বিটা ক্যারোটিন সেল ড্যামেজ প্রতিরোধে সহায়তা করে। এতে উপস্থিত ক্যালসিয়াম দাঁত ও হাঁড়ের গঠনে সাহায্য করে। এটি হজম শক্তি বাড়ায় ও সর্দিকাশি, কোষ্ঠকাঠিন্য, রক্তশূন্যতা সারাতে ভূমিকা রাখে।\n\n
+৪. বয়স বাড়ার সঙ্গে সঙ্গে আমাদের ত্বকও দ্রুত বুড়িয়ে যেতে শুরু করে। ভিটামিন সি ছাড়াও কমলায় থাকা অ্যান্টি-অক্সিডেন্টসমূহ ত্বককে সতেজ ও সজীব রাখতে সাহায্য করে। বার্ধক্যেও ত্বককে অনেকটাই মসৃণ রাখে, সহজে বলিরেখা পড়ে না। কারণ, অ্যান্টি অক্সিডেন্ট ও ভিটামিস সি ত্বকের লাবণ্য ধরে রাখে বহু বছর। ফলে, বয়স বাড়লেও, আপনাকে দেখাবে চিরতরুণের ন্যায়।এটি ত্বকের ব্রণ সমস্যা দূর করে ও ত্বকের কালো দাগ সারায়। কমলা রস করে খাওয়ার চেয়ে কোয়া খাওয়াই শরীরের পক্ষে ভাল।\n\n
+৫. কমলায় আছে প্রচুর পরিমাণে খনিজ উপাদান যা হৃদস্পন্দন নিয়ন্ত্রণ করার পাশাপাশি নিয়মিত রাখতে সাহায্য করে।পটাশিয়াম এবং ক্যালশিয়ামের মতো খনিজ উপাদানগুলো শরীরে সোডিয়ামের প্রভাব নিয়ন্ত্রণের মাধ্যমে রক্তচাপ ও হৃদস্পন্দন ঠিক রাখতে সাহায্য করে। কমলার চর্বিহীন আঁশ, সোডিয়াম মুক্ত এবং কোলেস্টেরল মুক্ত উপাদানগুলো হৃদপিণ্ড সুস্থ রাখে।\n\n
+৬.কমলা লেবুর খোসাএর অনেক উপকারিতা আছে: ত্বকের সতেজতা বৃদ্ধিতে অথবা চুলের যত্নেও এটি ব্যবহার করা যায়।\n\n
+">
+
+            </TextView>
+        </LinearLayout>
+    </ScrollView>
+
+
+
+
+
+</LinearLayout>

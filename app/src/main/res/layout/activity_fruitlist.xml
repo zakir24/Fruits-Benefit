@@ -1,0 +1,1287 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:background="#FFC324"
+    tools:context=".fruitlist">
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true">
+
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:orientation="vertical">
+            <RelativeLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="200dp"
+                    android:orientation="vertical"
+                    android:gravity="center"
+                    android:background="@drawable/f">
+
+
+
+
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginTop="220dp"
+                    android:orientation="vertical">
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="135dp"
+                        android:orientation="horizontal"
+                        android:layout_marginBottom="10dp">
+
+                        <androidx.cardview.widget.CardView
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_marginRight="5dp"
+                            android:layout_weight="1"
+                            app:cardUseCompatPadding="true"
+                            app:cardCornerRadius="4dp"
+                            android:elevation="5dp"
+                            app:cardMaxElevation="5dp"
+                            android:gravity="center"
+                            android:orientation="vertical">
+
+
+                            <RelativeLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent">
+
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+
+                                    android:text="কাঁঠাল"
+                                    android:textStyle="bold"
+                                    android:textColor="#FF8830"
+
+                                    android:layout_marginLeft="42dp"
+                                    android:layout_marginTop="35dp"
+                                    android:textSize="25sp">
+
+
+                                </TextView>
+                                <Button
+                                    android:layout_width="match_parent"
+                                    android:layout_height="match_parent"
+                                    android:id="@+id/b1"
+                                    android:background="@android:color/transparent">
+
+                                </Button>
+
+
+
+                            </RelativeLayout>
+
+
+
+                        </androidx.cardview.widget.CardView>
+
+                        <androidx.cardview.widget.CardView
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_marginRight="5dp"
+                            android:layout_weight="1"
+                            app:cardUseCompatPadding="true"
+                            app:cardCornerRadius="4dp"
+                            android:elevation="5dp"
+                            app:cardMaxElevation="5dp"
+                            android:gravity="center"
+                            android:orientation="vertical">
+
+
+                            <RelativeLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent">
+
+
+
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="লেবু"
+                                    android:textStyle="bold"
+                                    android:textColor="#FF8830"
+                                    android:layout_marginLeft="55dp"
+                                    android:layout_marginTop="35dp"
+                                    android:textSize="25sp">
+
+                                </TextView>
+                                <Button
+                                    android:layout_width="match_parent"
+                                    android:layout_height="match_parent"
+                                    android:id="@+id/b2"
+                                    android:background="@android:color/transparent">
+
+                                </Button>
+
+
+
+                            </RelativeLayout>
+
+
+
+                        </androidx.cardview.widget.CardView>
+
+                    </LinearLayout>
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="135dp"
+                        android:orientation="horizontal"
+                        android:layout_marginBottom="10dp">
+
+                        <androidx.cardview.widget.CardView
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_marginRight="5dp"
+                            android:layout_weight="1"
+                            app:cardUseCompatPadding="true"
+                            app:cardCornerRadius="4dp"
+                            android:elevation="5dp"
+                            app:cardMaxElevation="5dp"
+                            android:gravity="center"
+                            android:orientation="vertical">
+
+
+                            <RelativeLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent">
+
+
+
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="আম"
+                                    android:textStyle="bold"
+                                    android:textColor="#FF8830"
+
+                                    android:layout_marginLeft="55dp"
+                                    android:layout_marginTop="35dp"
+                                    android:textSize="25sp">
+                                </TextView>
+                                <Button
+                                    android:layout_width="match_parent"
+                                    android:layout_height="match_parent"
+                                    android:id="@+id/b3"
+                                    android:background="@android:color/transparent">
+
+                                </Button>
+
+
+
+                            </RelativeLayout>
+
+
+
+                        </androidx.cardview.widget.CardView>
+
+                        <androidx.cardview.widget.CardView
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_marginRight="5dp"
+                            android:layout_weight="1"
+                            app:cardUseCompatPadding="true"
+                            app:cardCornerRadius="4dp"
+                            android:elevation="5dp"
+                            app:cardMaxElevation="5dp"
+                            android:gravity="center"
+                            android:orientation="vertical">
+
+
+                            <RelativeLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent">
+
+
+
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="লিচু"
+                                    android:textStyle="bold"
+                                    android:textColor="#FF8830"
+
+                                    android:layout_marginLeft="55dp"
+                                    android:layout_marginTop="35dp"
+                                    android:textSize="25sp">
+
+                                </TextView>
+                                <Button
+                                    android:layout_width="match_parent"
+                                    android:layout_height="match_parent"
+                                    android:id="@+id/b4"
+                                    android:background="@android:color/transparent">
+
+                                </Button>
+
+
+
+                            </RelativeLayout>
+
+
+
+                        </androidx.cardview.widget.CardView>
+
+                    </LinearLayout>
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="135dp"
+                        android:orientation="horizontal"
+                        android:layout_marginBottom="10dp">
+
+                        <androidx.cardview.widget.CardView
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_marginRight="5dp"
+                            android:layout_weight="1"
+                            app:cardUseCompatPadding="true"
+                            app:cardCornerRadius="4dp"
+                            android:elevation="5dp"
+                            app:cardMaxElevation="5dp"
+                            android:gravity="center"
+                            android:orientation="vertical">
+
+
+                            <RelativeLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent">
+
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="পেয়ারা"
+                                    android:textStyle="bold"
+                                    android:textColor="#FF8830"
+
+                                    android:layout_marginLeft="42dp"
+                                    android:layout_marginTop="35dp"
+                                    android:textSize="25sp">
+                                </TextView>
+                                <Button
+                                    android:layout_width="match_parent"
+                                    android:layout_height="match_parent"
+                                    android:id="@+id/b5"
+                                    android:background="@android:color/transparent">
+
+                                </Button>
+
+
+
+                            </RelativeLayout>
+
+
+
+                        </androidx.cardview.widget.CardView>
+
+                        <androidx.cardview.widget.CardView
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_marginRight="5dp"
+                            android:layout_weight="1"
+                            app:cardUseCompatPadding="true"
+                            app:cardCornerRadius="4dp"
+                            android:elevation="5dp"
+                            app:cardMaxElevation="5dp"
+                            android:gravity="center"
+                            android:orientation="vertical">
+
+
+                            <RelativeLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent">
+
+
+
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="পেঁপে"
+                                    android:textStyle="bold"
+                                    android:textColor="#FF8830"
+
+
+                                    android:layout_marginLeft="50dp"
+                                    android:layout_marginTop="35dp"
+                                    android:textSize="25sp">
+
+                                </TextView>
+                                <Button
+                                    android:layout_width="match_parent"
+                                    android:layout_height="match_parent"
+                                    android:id="@+id/b6"
+                                    android:background="@android:color/transparent">
+
+                                </Button>
+
+
+
+                            </RelativeLayout>
+
+
+
+                        </androidx.cardview.widget.CardView>
+
+                    </LinearLayout>
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="135dp"
+                        android:orientation="horizontal"
+                        android:layout_marginBottom="10dp">
+
+                        <androidx.cardview.widget.CardView
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_marginRight="5dp"
+                            android:layout_weight="1"
+                            app:cardUseCompatPadding="true"
+                            app:cardCornerRadius="4dp"
+                            android:elevation="5dp"
+                            app:cardMaxElevation="5dp"
+                            android:gravity="center"
+                            android:orientation="vertical">
+
+
+                            <RelativeLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent">
+
+
+
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="আপেল"
+                                    android:textStyle="bold"
+                                    android:textColor="#FF8830"
+
+                                    android:layout_marginLeft="42dp"
+                                    android:layout_marginTop="35dp"
+                                    android:textSize="25sp">
+
+                                </TextView>
+                                <Button
+                                    android:layout_width="match_parent"
+                                    android:layout_height="match_parent"
+                                    android:id="@+id/b7"
+                                    android:background="@android:color/transparent">
+
+                                </Button>
+
+
+
+                            </RelativeLayout>
+
+
+
+                        </androidx.cardview.widget.CardView>
+
+                        <androidx.cardview.widget.CardView
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_marginRight="5dp"
+                            android:layout_weight="1"
+                            app:cardUseCompatPadding="true"
+                            app:cardCornerRadius="4dp"
+                            android:elevation="5dp"
+                            app:cardMaxElevation="5dp"
+                            android:gravity="center"
+                            android:orientation="vertical">
+
+
+                            <RelativeLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent">
+
+
+
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="আঙুর"
+                                    android:textStyle="bold"
+                                    android:textColor="#FF8830"
+
+                                    android:layout_marginLeft="45dp"
+                                    android:layout_marginTop="35dp"
+                                    android:textSize="25sp">
+
+                                </TextView>
+                                <Button
+                                    android:layout_width="match_parent"
+                                    android:layout_height="match_parent"
+                                    android:id="@+id/b8"
+                                    android:background="@android:color/transparent">
+
+                                </Button>
+
+
+
+                            </RelativeLayout>
+
+
+
+                        </androidx.cardview.widget.CardView>
+
+                    </LinearLayout>
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="135dp"
+                        android:orientation="horizontal"
+                        android:layout_marginBottom="10dp">
+
+                        <androidx.cardview.widget.CardView
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_marginRight="5dp"
+                            android:layout_weight="1"
+                            app:cardUseCompatPadding="true"
+                            app:cardCornerRadius="4dp"
+                            android:elevation="5dp"
+                            app:cardMaxElevation="5dp"
+                            android:gravity="center"
+                            android:orientation="vertical">
+
+
+                            <RelativeLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent">
+
+
+
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="আনারস"
+                                    android:textStyle="bold"
+                                    android:textColor="#FF8830"
+
+                                    android:layout_marginLeft="35dp"
+                                    android:layout_marginTop="35dp"
+                                    android:textSize="25sp">
+
+                                </TextView>
+                                <Button
+                                    android:layout_width="match_parent"
+                                    android:layout_height="match_parent"
+                                    android:id="@+id/b9"
+                                    android:background="@android:color/transparent">
+
+                                </Button>
+
+
+
+                            </RelativeLayout>
+
+
+
+                        </androidx.cardview.widget.CardView>
+
+                        <androidx.cardview.widget.CardView
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_marginRight="5dp"
+                            android:layout_weight="1"
+                            app:cardUseCompatPadding="true"
+                            app:cardCornerRadius="4dp"
+                            android:elevation="5dp"
+                            app:cardMaxElevation="5dp"
+                            android:gravity="center"
+                            android:orientation="vertical">
+
+
+                            <RelativeLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent">
+
+
+
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="আমড়া"
+                                    android:textStyle="bold"
+                                    android:textColor="#FF8830"
+
+                                    android:layout_marginLeft="42dp"
+                                    android:layout_marginTop="35dp"
+                                    android:textSize="25sp">
+
+                                </TextView>
+                                <Button
+                                    android:layout_width="match_parent"
+                                    android:layout_height="match_parent"
+                                    android:id="@+id/b10"
+                                    android:background="@android:color/transparent">
+
+                                </Button>
+
+
+
+                            </RelativeLayout>
+
+
+
+                        </androidx.cardview.widget.CardView>
+
+                    </LinearLayout>
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="135dp"
+                        android:orientation="horizontal"
+                        android:layout_marginBottom="10dp">
+
+                        <androidx.cardview.widget.CardView
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_marginRight="5dp"
+                            android:layout_weight="1"
+                            app:cardUseCompatPadding="true"
+                            app:cardCornerRadius="4dp"
+                            android:elevation="5dp"
+                            app:cardMaxElevation="5dp"
+                            android:gravity="center"
+                            android:orientation="vertical">
+
+
+                            <RelativeLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent">
+
+
+
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="আতাফল"
+                                    android:textStyle="bold"
+                                    android:textColor="#FF8830"
+                                    android:layout_marginLeft="32dp"
+                                    android:layout_marginTop="35dp"
+                                    android:textSize="25sp">
+
+
+                                </TextView>
+                                <Button
+                                    android:layout_width="match_parent"
+                                    android:layout_height="match_parent"
+                                    android:id="@+id/b11"
+                                    android:background="@android:color/transparent">
+
+                                </Button>
+
+
+
+                            </RelativeLayout>
+
+
+
+                        </androidx.cardview.widget.CardView>
+
+                        <androidx.cardview.widget.CardView
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_marginRight="5dp"
+                            android:layout_weight="1"
+                            app:cardUseCompatPadding="true"
+                            app:cardCornerRadius="4dp"
+                            android:elevation="5dp"
+                            app:cardMaxElevation="5dp"
+                            android:gravity="center"
+                            android:orientation="vertical">
+
+
+                            <RelativeLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent">
+
+
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="কমলা"
+                                    android:textStyle="bold"
+                                    android:textColor="#FF8830"
+
+                                    android:layout_marginLeft="42dp"
+                                    android:layout_marginTop="35dp"
+                                    android:textSize="25sp">
+
+                                </TextView>
+                                <Button
+                                    android:layout_width="match_parent"
+                                    android:layout_height="match_parent"
+                                    android:id="@+id/b12"
+                                    android:background="@android:color/transparent">
+
+                                </Button>
+
+
+
+                            </RelativeLayout>
+
+
+
+                        </androidx.cardview.widget.CardView>
+
+                    </LinearLayout>
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="135dp"
+                        android:orientation="horizontal"
+                        android:layout_marginBottom="10dp">
+
+                        <androidx.cardview.widget.CardView
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_marginRight="5dp"
+                            android:layout_weight="1"
+                            app:cardUseCompatPadding="true"
+                            app:cardCornerRadius="4dp"
+                            android:elevation="5dp"
+                            app:cardMaxElevation="5dp"
+                            android:gravity="center"
+                            android:orientation="vertical">
+
+
+                            <RelativeLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent">
+
+
+
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="কলা"
+                                    android:textStyle="bold"
+                                    android:textColor="#FF8830"
+
+                                    android:layout_marginLeft="55dp"
+                                    android:layout_marginTop="35dp"
+                                    android:textSize="25sp">
+
+                                </TextView>
+                                <Button
+                                    android:layout_width="match_parent"
+                                    android:layout_height="match_parent"
+                                    android:id="@+id/b13"
+                                    android:background="@android:color/transparent">
+
+                                </Button>
+
+
+
+                            </RelativeLayout>
+
+
+
+                        </androidx.cardview.widget.CardView>
+
+                        <androidx.cardview.widget.CardView
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_marginRight="5dp"
+                            android:layout_weight="1"
+                            app:cardUseCompatPadding="true"
+                            app:cardCornerRadius="4dp"
+                            android:elevation="5dp"
+                            app:cardMaxElevation="5dp"
+                            android:gravity="center"
+                            android:orientation="vertical">
+
+
+                            <RelativeLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent">
+
+
+
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="খেজুর"
+                                    android:textStyle="bold"
+                                    android:textColor="#FF8830"
+
+                                    android:layout_marginLeft="42dp"
+                                    android:layout_marginTop="35dp"
+                                    android:textSize="25sp">
+
+                                </TextView>
+                                <Button
+                                    android:layout_width="match_parent"
+                                    android:layout_height="match_parent"
+                                    android:id="@+id/b14"
+                                    android:background="@android:color/transparent">
+
+                                </Button>
+
+
+
+                            </RelativeLayout>
+
+
+
+                        </androidx.cardview.widget.CardView>
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="135dp"
+                        android:orientation="horizontal"
+                        android:layout_marginBottom="10dp">
+
+                        <androidx.cardview.widget.CardView
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_marginRight="5dp"
+                            android:layout_weight="1"
+                            app:cardUseCompatPadding="true"
+                            app:cardCornerRadius="4dp"
+                            android:elevation="5dp"
+                            app:cardMaxElevation="5dp"
+                            android:gravity="center"
+                            android:orientation="vertical">
+
+
+                            <RelativeLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent">
+
+
+
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="ডালিম"
+                                    android:textStyle="bold"
+                                    android:textColor="#FF8830"
+
+                                    android:layout_marginLeft="42dp"
+                                    android:layout_marginTop="35dp"
+                                    android:textSize="25sp">
+
+                                </TextView>
+                                <Button
+                                    android:layout_width="match_parent"
+                                    android:layout_height="match_parent"
+                                    android:id="@+id/b15"
+                                    android:background="@android:color/transparent">
+
+                                </Button>
+
+
+
+                            </RelativeLayout>
+
+
+
+                        </androidx.cardview.widget.CardView>
+
+                        <androidx.cardview.widget.CardView
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_marginRight="5dp"
+                            android:layout_weight="1"
+                            app:cardUseCompatPadding="true"
+                            app:cardCornerRadius="4dp"
+                            android:elevation="5dp"
+                            app:cardMaxElevation="5dp"
+                            android:gravity="center"
+                            android:orientation="vertical">
+
+
+                            <RelativeLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent">
+
+
+
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="কামরাঙ্গা"
+                                    android:textStyle="bold"
+                                    android:textColor="#FF8830"
+
+                                    android:layout_marginLeft="35dp"
+                                    android:layout_marginTop="35dp"
+                                    android:textSize="25sp">
+
+                                </TextView>
+                                <Button
+                                    android:layout_width="match_parent"
+                                    android:layout_height="match_parent"
+                                    android:id="@+id/b16"
+                                    android:background="@android:color/transparent">
+
+                                </Button>
+
+
+
+                            </RelativeLayout>
+
+
+
+                        </androidx.cardview.widget.CardView>
+
+                    </LinearLayout>
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="135dp"
+                        android:orientation="horizontal"
+                        android:layout_marginBottom="10dp">
+
+                        <androidx.cardview.widget.CardView
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_marginRight="5dp"
+                            android:layout_weight="1"
+                            app:cardUseCompatPadding="true"
+                            app:cardCornerRadius="4dp"
+                            android:elevation="5dp"
+                            app:cardMaxElevation="5dp"
+                            android:gravity="center"
+                            android:orientation="vertical">
+
+
+                            <RelativeLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent">
+
+
+
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="তরমুজ"
+                                    android:textStyle="bold"
+                                    android:textColor="#FF8830"
+
+
+                                    android:layout_marginLeft="40dp"
+                                    android:layout_marginTop="35dp"
+                                    android:textSize="25sp">
+
+                                </TextView>
+                                <Button
+                                    android:layout_width="match_parent"
+                                    android:layout_height="match_parent"
+                                    android:id="@+id/b17"
+                                    android:background="@android:color/transparent">
+
+                                </Button>
+
+
+
+                            </RelativeLayout>
+
+
+
+                        </androidx.cardview.widget.CardView>
+
+                        <androidx.cardview.widget.CardView
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_marginRight="5dp"
+                            android:layout_weight="1"
+                            app:cardUseCompatPadding="true"
+                            app:cardCornerRadius="4dp"
+                            android:elevation="5dp"
+                            app:cardMaxElevation="5dp"
+                            android:gravity="center"
+                            android:orientation="vertical">
+
+
+                            <RelativeLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent">
+
+
+
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="নারিকেল"
+                                    android:textStyle="bold"
+                                    android:textColor="#FF8830"
+
+                                    android:layout_marginLeft="35dp"
+                                    android:layout_marginTop="35dp"
+                                    android:textSize="25sp">
+
+                                </TextView>
+                                <Button
+                                    android:layout_width="match_parent"
+                                    android:layout_height="match_parent"
+                                    android:id="@+id/b18"
+                                    android:background="@android:color/transparent">
+
+                                </Button>
+
+
+
+                            </RelativeLayout>
+
+
+
+                        </androidx.cardview.widget.CardView>
+
+                    </LinearLayout>
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="135dp"
+                        android:orientation="horizontal"
+                        android:layout_marginBottom="10dp">
+
+                        <androidx.cardview.widget.CardView
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_marginRight="5dp"
+                            android:layout_weight="1"
+                            app:cardUseCompatPadding="true"
+                            app:cardCornerRadius="4dp"
+                            android:elevation="5dp"
+                            app:cardMaxElevation="5dp"
+                            android:gravity="center"
+                            android:orientation="vertical">
+
+
+                            <RelativeLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent">
+
+
+
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="গাজর"
+                                    android:textStyle="bold"
+                                    android:textColor="#FF8830"
+
+                                    android:layout_marginLeft="45dp"
+                                    android:layout_marginTop="35dp"
+                                    android:textSize="25sp">
+
+                                </TextView>
+                                <Button
+                                    android:layout_width="match_parent"
+                                    android:layout_height="match_parent"
+                                    android:id="@+id/b19"
+                                    android:background="@android:color/transparent">
+
+                                </Button>
+
+
+
+                            </RelativeLayout>
+
+
+
+                        </androidx.cardview.widget.CardView>
+
+                        <androidx.cardview.widget.CardView
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_marginRight="5dp"
+                            android:layout_weight="1"
+                            app:cardUseCompatPadding="true"
+                            app:cardCornerRadius="4dp"
+                            android:elevation="5dp"
+                            app:cardMaxElevation="5dp"
+                            android:gravity="center"
+                            android:orientation="vertical">
+
+
+                            <RelativeLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent">
+
+
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="জাম"
+                                    android:textStyle="bold"
+                                    android:textColor="#FF8830"
+
+                                    android:layout_marginLeft="55dp"
+                                    android:layout_marginTop="35dp"
+                                    android:textSize="25sp">
+
+                                </TextView>
+                                <Button
+                                    android:layout_width="match_parent"
+                                    android:layout_height="match_parent"
+                                    android:id="@+id/b20"
+                                    android:background="@android:color/transparent">
+
+                                </Button>
+
+
+
+                            </RelativeLayout>
+
+
+
+                        </androidx.cardview.widget.CardView>
+
+                    </LinearLayout>
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="135dp"
+                        android:orientation="horizontal"
+                        android:layout_marginBottom="10dp">
+
+                        <androidx.cardview.widget.CardView
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_marginRight="5dp"
+                            android:layout_weight="1"
+                            app:cardUseCompatPadding="true"
+                            app:cardCornerRadius="4dp"
+                            android:elevation="5dp"
+                            app:cardMaxElevation="5dp"
+                            android:gravity="center"
+                            android:orientation="vertical">
+
+
+                            <RelativeLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent">
+
+
+
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="ডুমুর"
+                                    android:textStyle="bold"
+                                    android:textColor="#FF8830"
+
+                                    android:layout_marginLeft="48dp"
+                                    android:layout_marginTop="35dp"
+                                    android:textSize="25sp">
+                                </TextView>
+                                <Button
+                                    android:layout_width="match_parent"
+                                    android:layout_height="match_parent"
+                                    android:id="@+id/b21"
+                                    android:background="@android:color/transparent">
+
+                                </Button>
+
+
+
+                            </RelativeLayout>
+
+
+
+                        </androidx.cardview.widget.CardView>
+
+                        <androidx.cardview.widget.CardView
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_marginRight="5dp"
+                            android:layout_weight="1"
+                            app:cardUseCompatPadding="true"
+                            app:cardCornerRadius="4dp"
+                            android:elevation="5dp"
+                            app:cardMaxElevation="5dp"
+                            android:gravity="center"
+                            android:orientation="vertical">
+
+
+                            <RelativeLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent">
+
+
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="জাম্বুরা"
+                                    android:textStyle="bold"
+                                    android:textColor="#FF8830"
+
+                                    android:layout_marginLeft="45dp"
+                                    android:layout_marginTop="35dp"
+                                    android:textSize="25sp">
+
+                                </TextView>
+                                <Button
+                                    android:layout_width="match_parent"
+                                    android:layout_height="match_parent"
+                                    android:id="@+id/b22"
+                                    android:background="@android:color/transparent">
+
+                                </Button>
+
+
+
+                            </RelativeLayout>
+
+
+
+                        </androidx.cardview.widget.CardView>
+
+                    </LinearLayout>
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="135dp"
+                        android:orientation="horizontal"
+                        android:layout_marginBottom="10dp">
+
+                        <androidx.cardview.widget.CardView
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_marginRight="5dp"
+                            android:layout_weight="1"
+                            app:cardUseCompatPadding="true"
+                            app:cardCornerRadius="4dp"
+                            android:elevation="5dp"
+                            app:cardMaxElevation="5dp"
+                            android:gravity="center"
+                            android:orientation="vertical">
+
+
+                            <RelativeLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent">
+
+
+
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="কুল"
+                                    android:textStyle="bold"
+                                    android:textColor="#FF8830"
+                                    android:layout_marginLeft="55dp"
+                                    android:layout_marginTop="35dp"
+                                    android:textSize="25sp">
+
+                                </TextView>
+                                <Button
+                                    android:layout_width="match_parent"
+                                    android:layout_height="match_parent"
+                                    android:id="@+id/b23"
+                                    android:background="@android:color/transparent">
+
+                                </Button>
+
+
+
+                            </RelativeLayout>
+
+
+
+                        </androidx.cardview.widget.CardView>
+
+                        <androidx.cardview.widget.CardView
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_marginRight="5dp"
+                            android:layout_weight="1"
+                            app:cardUseCompatPadding="true"
+                            app:cardCornerRadius="4dp"
+                            android:elevation="5dp"
+                            app:cardMaxElevation="5dp"
+                            android:gravity="center"
+                            android:orientation="vertical">
+
+
+                            <RelativeLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent">
+
+
+
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="জলপাই"
+                                    android:textStyle="bold"
+                                    android:textColor="#FF8830"
+
+                                    android:layout_marginLeft="38dp"
+                                    android:layout_marginTop="35dp"
+                                    android:textSize="25sp">
+
+                                </TextView>
+                                <Button
+                                    android:layout_width="match_parent"
+                                    android:layout_height="match_parent"
+                                    android:id="@+id/b24"
+                                    android:background="@android:color/transparent">
+
+                                </Button>
+
+
+
+                            </RelativeLayout>
+
+
+
+                        </androidx.cardview.widget.CardView>
+
+                    </LinearLayout>
+
+
+
+                </LinearLayout>
+
+
+
+            </RelativeLayout>
+
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</RelativeLayout>

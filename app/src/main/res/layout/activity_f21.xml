@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".f21">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <TextView
+                android:textSize="18sp"
+                android:textColor="#008000"
+                android:textStyle="bold"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:text="ডুমুরে যত উপকার:\n"> </TextView>
+
+            <TextView
+                android:textSize="18sp"
+                android:textColor="#000000"
+                android:layout_marginRight="5dp"
+                android:layout_marginLeft="5dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="
+ডুমুর আমাদের দেশের অতিপরিচিত একটি ফল। শহরে-গ্রামে সব জায়গায় রাস্তার পাশে ডুমুরের গাছ জন্মে। ডুমুরের গাছের নিচে ডুমুর ফল পড়ে থাকে। তবে খুবই অবাক করা বিষয় হলো যে গাছের নিচে পড়ে থাকা একদম বিনে পয়সার এই ফলটি কিন্তু ভীষণ উপকারী।\n\n
+
+১.  ডুমুরে রয়েছে প্রচুর পরিমাণে পটাশিয়াম। পটাশিয়াম রক্তচাপ নিয়ন্ত্রণে সহায়তা করে। নিয়মিত ফল ও সবজি খাওয়ার অভ্যাস না থাকলেও আমরা প্রতিনিয়ত নানা ধরনের প্রক্রিয়াজাত খাবার খেয়ে থাকি। ডায়েটে সোডিয়ামের পরিমাণ বেড়ে গিয়ে হাইপারটেনশনের সমস্যা হতে পারে। তাই ডায়েটে রাখুন ডুমুর ফল। এর পটাশিয়াম হাইপারটেনশন প্রতিরোধে সাহায্য করবে।\n\n
+২.  খাদ্যআঁশ সমৃদ্ধ ডুমুর ওজন কমাতে সাহায্য করে। ওজন নিয়ন্ত্রণ করতে চাইলে আপনার খাদ্যতালিকায় ডুমুর রাখুন। ডুমুর বিদ্যমান পেকটিন রক্তে কোলেস্টেরলের মাত্রা নিয়ন্ত্রণ করে।\n\n
+৩.   মেনোপজ পরবর্তী পর্যায়ে স্তন ক্যান্সার প্রতিরোধ করতে ডুমুর সাহায্য করে। আঁশ সমৃদ্ধ ডুমুর খাদ্যতালিকায় রাখার ফলে ৩৪% মহিলাদের মধ্যে স্তন ক্যান্সার হওয়ার সম্ভাবনা কম দেখা দিয়েছে।\n\n
+৪. ডায়াবেটিসে ডুমুর যেমন উপকারী, তেমনি ডুমুরের পাতাও উপকারী। ডায়াবেটিসে অনেক সময় রোগীকে ইনসুলিন ইনজেকশন নিতে হয়। গবেষণায় জানা গিয়েছে যে, নিয়মিত ডুমুর খেলে ইনসুলিন গ্রহণের পরিমাণ কম করতে সাহায্য করে।\n\n
+৫. ডুমুরে প্রচুর পরিমাণে ক্যালসিয়াম রয়েছে। অতিরিক্ত হাই-সল্ট ডায়েট মেনে চললে ইউরিনের মধ্য দিয়ে অনেক ক্যালসিয়াম বেরিয়ে যায়। এই ক্যালসিয়াম লস প্রতিরোধ করতে ডুমুরের পটাশিয়াম সাহায্য করে। এভাবে ডুমুর হাড় বৃদ্ধিতে সাহায্য করে। এছাড়া ডুমুর হাড়ের ক্ষয়রোগও প্রতিরোধ করতে সাহায্য করে।\n\n
+৬. গবেষণায় জানা গিয়েছে যে, ডুমুর ও ডুমুরের পাতা ট্রাইগ্লিসারাইডের মাত্রা নিয়ন্ত্রণে সাহায্য করে। ফলে হার্ট ভালো থাকে। এছাড়া ডুমুরে রয়েছে প্রচুর পরিমাণে ম্যাংগানিজ। যা বয়েসজনিত কারণের নানা অসুখ প্রতিরোধ করতে সাহায্য করে। তাই খাদ্যতালিকায় রাখুন ডুমুর।\n\n
+৭.  ডুমুরে রয়েছে প্রচুর পরিমাণে খাদ্যআঁশ। ফলে পেটের সমস্যার জন্য ডুমুর খুব ভালো কাজ করে। কোষ্ঠকাঠিন্য ও পাইলসের সমস্যাও কমাতে সাহায্য করে।\n\n
+
+">
+
+            </TextView>
+        </LinearLayout>
+    </ScrollView>
+
+
+
+</LinearLayout>
+

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".f1">
+
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <TextView
+                android:textSize="18sp"
+                android:textColor="#008000"
+                android:textStyle="bold"
+                android:layout_marginTop="5dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="কাঁঠালে যত উপকার:\n"></TextView>
+
+
+
+            <TextView
+                android:textSize="18sp"
+                android:textColor="#000000"
+                android:layout_marginRight="5dp"
+                android:layout_marginLeft="5dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="১.কাঁঠালে চর্বির পরিমাণ নিতান্ত কম। তাই কাঁঠাল খাওয়ার কারণে ওজন বৃদ্ধির আশঙ্কা কম।\n\n
+২.কাঁঠাল পটাশিয়ামের উৎকৃষ্ট উৎস। ১০০ গ্রাম কাঁঠালে পটাশিয়ামের পরিমাণ ৩০৩ মিলিগ্রাম। যা উচ্চ রক্তচাপ কমাতে সাহায্য করে। এ জন্যে কাঁঠালে উচ্চরক্তচাপের উপশম \n\n
+৩.কাঁঠালে প্রচুর ভিটামিন এ আছে যা রাতকানা রোগ প্রতিরোধ করে। \n\n
+৪.কাঁঠালের অন্যতম উপযোগিতা হলো ভিটামিন সি। প্রাকৃতিকভাবে মানবদেহে ভিটামিন “সি” তৈরি হয় না। রোগ প্রতিরোধ ক্ষমতা বৃদ্ধির পাশাপাশি দাঁতের মাড়িকে শক্তিশালী করে ভিটামিন “সি”।\n\n
+৫.কাঁঠালে বিদ্যমান ফাইটোনিউট্রিয়েন্টস- আলসার, ক্যান্সার, উচ্চ রক্তচাপ এবং বার্ধক্য প্রতিরোধে সক্ষম। \n\n
+৬.কাঁঠালে আছে শক্তিশালী অ্যান্টিঅক্সিডেন্ট যা আমাদের দেহকে ক্ষতিকর ফ্রির‌্যাডিকেলস থেকে রক্ষা করে। এছাড়াও আমাদেরকে সর্দি-কাশি রোগের সংক্রমণ থেকে রক্ষা করে।\n\n
+৭.টেনশন এবং নার্ভাসনেস কমাতে কাঁঠাল বেশ কার্যকরী। \n\n
+৮.বদহজম রোধ করে কাঁঠাল।\n\n
+৯. কাঁঠাল গাছের শেকড় হাঁপানী উপশম করে। শেকড় সেদ্ধ করলে যে উৎকৃষ্ট পুষ্টি উপাদান নিষ্কাশিত হয় তা হাঁপানীর প্রকোপ নিয়ন্ত্রণে সক্ষম।\n\n
+১০. চর্মরোগের সমস্যা সমাধানেও কাঁঠালের শেকড় কার্যকরী। জ্বর এবং ডায়রিয়া নিরাময় করে কাঁঠালের শেকড়।\n\n
+১১. কাঁঠালে আছে বিপুল পরিমাণে খনিজ উপাদান ম্যাঙ্গানিজ যা রক্তে শর্করা বা চিনির পরিমাণ নিয়ন্ত্রণে সাহায্য করে।\n\n
+১২. কাঁঠালে বিদ্যমান ম্যাগনেসিয়াম, ক্যালসিয়ামের মত হাড়ের গঠন ও হাড় শক্তিশালীকরণে ভূমিকা পালন করে।\n\n
+১৩. কাঁঠালে আছে ভিটামিন বি৬ যা হৃদরোগের ঝুঁকি কমায়।\n\n
+১৪. কাঁঠালে বিদ্যমান ক্যালসিয়াম কেবল হাড়ের জন্য উপকারী নয় রক্ত সংকোচন প্রক্রিয়া সমাধানেও ভূমিকা রাখে।\n\n
+১৫. চিকিৎসাশাস্ত্র মতে প্রতিদিন ২০০ গ্রাম তাজা পাকা কাঁঠাল খেলে গর্ভবতী মহিলা ও তার গর্ভধারণকৃত শিশুর সব ধরনের পুষ্টির অভাব দূর হয়। গর্ভবতী মহিলারা কাঁঠাল খেলে তার স্বাস্থ্য স্বাভাবিক থাকে এবং গর্ভস্থসন্তানের বৃদ্ধি স্বাভাবিক হয়। দুগ্ধদানকারী মা তাজা পাকা কাঁঠাল খেলে দুধের পরিমাণ বৃদ্ধি পায়।\n\n
+১৬. এই ফল আঁশালো হওয়ায় কোষ্ঠকাঠিন্য দূর করে।\n\n
+১৭. কাঁঠালে রয়েছে খনিজ উপাদান আয়রন যা দেহের রক্তাল্পতা দূর করে।\n\n">
+
+
+
+
+            </TextView>
+
+
+        </LinearLayout>
+    </ScrollView>
+
+
+
+</LinearLayout>
+
+
+
+

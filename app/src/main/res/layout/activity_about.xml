@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:paddingRight="10dp"
+    android:paddingLeft="10dp"
+    android:background="@color/colorPrimary"
+    tools:context=".about">
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:textColor="#FFFFFF"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="24sp"
+            android:paddingBottom="30sp"
+            android:textStyle="bold"
+            android:text="তথ্যসমূহ  ইন্টারনেট থেকে  সংগ্রহ করা হয়েছে। ">
+
+        </TextView>
+
+        <TextView
+            android:textColor="#FFFFFF"
+            android:textStyle="bold"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="24sp"
+            android:text="এই এপ্লিকেশনটি সম্পূর্ণ ফ্রি।  তাই ডেভেলপারের সুবিধার জন্যে কিছু এড বসানো হয়েছে। তাই দয়া করে কেউ এডের জন্যে বিরক্ত হবেন না। \n ">
+
+        </TextView>
+        <TextView
+            android:textColor="#FFFFFF"
+            android:textStyle="bold"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="24sp"
+            android:paddingBottom="30sp"
+            android:text="আর এপ্লিকেশনটি  ভালো লাগলে , ৫ ষ্টার দিয়ে আমাদের কাজে  উৎসাহিত করুন। ">
+
+        </TextView>
+
+    </LinearLayout>
+
+</LinearLayout>

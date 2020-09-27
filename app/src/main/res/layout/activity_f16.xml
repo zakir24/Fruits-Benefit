@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".f16">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+            <TextView
+                android:textSize="18sp"
+                android:textColor="#008000"
+                android:textStyle="bold"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:text="কামরাঙ্গায় যত উপকার:\n"> </TextView>
+
+            <TextView
+                android:textSize="18sp"
+                android:layout_marginRight="5dp"
+                android:layout_marginLeft="5dp"
+                android:textColor="#000000"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="
+১. কামরাঙ্গা রক্ত পরিশোধন করে। কামরাঙ্গার পাতা ও কচি ফলে আছে ট্যানিন, যা রক্ত জমাট বাঁধতে সাহায্য করে।\n\n
+২. ২ গ্রাম পরিমাণ শুকনো কামরাঙ্গার গুঁড়া পানির সঙ্গে রোজ একবার করে খেলে অর্শ রোগে উপকার পাওয়া যায়। আর বাতের ব্যথায়ও কামরাঙ্গা বেশ উপকারি।\n\n
+৩. কামরাঙ্গা রুচি ও হজমশক্তি বাড়ায়। পেটের ব্যথায় কামরাঙ্গা খুব উপকারি। কামরাঙ্গায় আছে এলজিক এসিড। এটি অন্ত্রের ক্যান্সার প্রতিরোধ করে।\n\n
+৪. কামরাঙ্গা পুড়িয়ে ভর্তা করে খেলে ঠাণ্ডাজনিত সমস্যা থেকে মুক্তি মেলে। দীর্ঘদিনের জমাট সর্দি বের করে দিয়ে কাশি উপশম করে। শুকনো কামরাঙ্গা জ্বরের জন্য খুব উপকারি।\n\n
+৫. কামরাঙ্গা পাতা ও ডগার গুঁড়া খেলে জলবসন্ত ও বক্রকৃমি নিরাময় হয়। কৃমির সমস্যা সমাধানে কামরাঙ্গা ফলও উপকারি। কামরাঙ্গার রসের সাথে নিমপাতা মিশিয়ে খেলে কৃমি দূর হয়।\n\n
+৬. প্রতি একশ গ্রাম কামরাঙ্গায় শক্তি মেলে ৩১ কিলোক্যালরি। শর্করা ৬.৭৩ গ্রাম, চিনি ৩.৯৮ গ্রাম, খাদ্য ফাইবার ২.৮ গ্রাম, স্নেহ ০.৩৩ গ্রাম, প্রোটিন ১.০৪ গ্রাম, প্যানটোথেনিক অ্যাসিড (বি৫) ০.৩৯ মিলিগ্রাম, ফোলেট (বি৯) ১২ μg, ভিটামিন সি ৩৪.৪ মিলিগ্রাম ছাড়াও কামরাঙ্গায় পাওয়া যাবে ভিটামিন এ, ফসফরাস, পটাশিয়াম ও দস্তা।\n\n">
+ </TextView>
+
+            <TextView
+                android:textSize="18sp"
+                android:textColor="#ea1f1b"
+                android:textStyle="bold"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+
+                android:text="কামরাঙ্গা কীভাবে ক্ষতি করে?\n"> </TextView>
+
+
+            <TextView
+                android:textSize="18sp"
+                android:textColor="#000000"
+                android:layout_marginRight="5dp"
+                android:layout_marginLeft="5dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+
+                android:text="
+
+১. সাধারণত যাদের কিডনি ভালো স্বাভাবিক পরিমাণে কামরাঙ্গা খেলে তাদের কোনো ক্ষতি হয় না। তবে এরা যদি অত্যধিক কামরাঙ্গা বা রস অথবা নির্দিষ্ট পরিমাণে অনেক দিন গ্রহণ করে তাহলে শরীরে অতিমাত্রায় অক্সালিক অ্যাসিড জমে গিয়ে অক্সালেট নেফ্রোপ্যাথি হয়ে কিডনি বিকল হতে পারে।\n\n
+২. তাছাড়া যাদের কিডনি সমস্যা রয়েছে, তারা যদি অল্প পরিমাণ কামরাঙ্গা বা রস যেমন একটি বা কয়েক টুকরা কামরাঙ্গা খেলেই কিডনি বিকল হয়ে যায়।\n\n
+৩. অন্যদিকে যাদের ক্রনিক কিডনি ডিজিজ বা ক্রনিক কিডনি ফেইলিউর রয়েছে, তারা কামরাঙ্গা খেলে অজ্ঞান পর্যন্ত হয়ে যেতে পারে। এই অবস্থায় মানুষের মৃত্যুর হার বেশি। আগে মনে করা হতো কিডনি ফেইলিউরের মাত্রা বাড়ার কারণে এ অবস্থা হয়, কিন্তু পরবর্তীকালে দেখা গেছে কামরাঙ্গার ক্যারাম্বক্সিন নামক উপাদানের জন্য এ অবস্থা হয়।\n\n
+৪. তাহলে কামরাঙ্গা কী একদম খাওয়া যাবে না? আসলে তা নয়, যাদের কিডনি ভালো তারা স্বাভাবিক পরিমাণ কামরাঙ্গা খেতে পারবেন। অত্যধিক পরিমাণ কামরাঙ্গা খাওয়া এবং যাদের কিডনি সমস্যা আছে তারা কামরাঙ্গা বা এর রস পান হতে পুরোপুরিভাবে বিরত থাকবেন।\n\n">
+
+            </TextView>
+        </LinearLayout>
+    </ScrollView>
+
+
+
+</LinearLayout>
+

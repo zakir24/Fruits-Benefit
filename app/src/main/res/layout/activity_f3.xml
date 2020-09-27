@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".f3">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <TextView
+                android:textSize="18sp"
+                android:textColor="#008000"
+                android:textStyle="bold"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:text="আমে যত উপকার:\n"> </TextView>
+
+            <TextView
+                android:textSize="18sp"
+                android:textColor="#000000"
+                android:layout_marginRight="5dp"
+                android:layout_marginLeft="5dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="
+১. আমে রয়েছে উচ্চ পরিমাণ প্রোটিন যা দেহকে জীবাণু থেকে  সুরক্ষা দেয়।\n\n
+২. আম দেহে নতুন রক্ত তৈরি করতে সাহায্য করে ।\n\n
+৩. আম পুরুষের যৌনশক্তি বাড়াতে সাহায্য করে এবং শরীর ফিট রাখে।\n\n
+৪. আম পুরুষের শুক্রাণুর গুণগত মানকে ভালো রাখে।\n\n
+৫. অ্যানিমিয়া আক্রান্ত রোগীদের জন্য এটি ভালো ওষুধ হিসেবে কাজ করে।\n\n
+৬. আমের রস বার্ধক্যের ছাপ রোধে বেশ কার্যকরী। কাঁচা আমের রস রোদে পোড়া দাগ দূর করতে সাহায্য করে।\n\n
+৭. আয়রন ও সোডিয়ামের ঘাটতি পূরণে বেশ কার্যকরী উপাদান হলো আম।\n\n
+৮. আমে ভিটামিন এ বিদ্যমান , যা দৃষ্টিশক্তি ভালো রাখে। চোখের চারপাশের শুষ্কভাবও দূর করে।\n\n
+৯. কাঁচা আম ওজন কমাতে সাহায্য করে । \n\n
+১০. কাঁচা আম মাড়ির জন্য ভালো। দাঁতের ক্ষয় এবং রক্তপাত রোধ করে। \n\n
+১১. কাঁচা আম দেহের শক্তি বাড়াতে বেশ কার্যকরী । বিশেষজ্ঞরা বলেন, দুপুরে খাওয়ার পর কাঁচা আম খেলে বিকেলের তন্দ্রাভাব কাটে।\n\n
+১২. সন্তানসম্ভবা নারী এবং মেনোপোজ হওয়া নারীর আয়রনের ঘাটতি পূরণে আম বেশ কার্যকরী।\n\n
+১৩. লিভারের সমস্যায় কাঁচা আম খাওয়া উপকারী। এটি বাইল এসিড নিঃসরণ বাড়ায় এবং অন্ত্রের ব্যাকটেরিয়াকে পরিষ্কার করে। \n\n
+১৪. কাঁচা আম কোষ্ঠকাঠিন্য দূর করে । কাঁচা আম মধু দিয়ে খেলে পেটের কষাভাব দূর করতে সাহায্য করে।\n\n
+১৫. আম রক্তে ক্ষতিকারক কোলেস্টেলের মাত্রা কমায়।  ক্যানসার কোষকে মেরে ফেলতে সাহায্য করে।\n\n
+১৬. প্রচন্ড গরমে আমের রস আপনার দেহকে দ্রুত ঠান্ডা করে এবং হিট স্ট্রোক থেকে রক্ষা করে।\n\n">
+
+            </TextView>
+        </LinearLayout>
+    </ScrollView>
+
+
+
+</LinearLayout>
+

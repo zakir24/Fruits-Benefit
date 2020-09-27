@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".f4">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:textSize="18sp"
+                android:textColor="#008000"
+                android:textStyle="bold"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:text="লিচুতে যত উপকার:\n"> </TextView>
+
+
+
+            <TextView
+                android:textSize="18sp"
+                android:textColor="#000000"
+                android:layout_marginRight="5dp"
+                android:layout_marginLeft="5dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="১.প্রতি ১০০ গ্রাম লিচু থেকে ৬১ কিলোক্যালরি শক্তি পাওয়া যায়। শক্তির একটি ভালো উৎস হলো  লিচু। \n\n
+২.  লিচু ত্বক উজ্জ্বল করতে ও বলিরেখা কমাতে সাহায্য করে। রোদে পুড়ে কালচে হয়ে যাওয়া ত্বকে লিচু চটকে ভিটামিন-ই ক্যাপসুল মিশিয়ে লাগিয়ে ৩০ মিনিট অপেক্ষা করে ঠাণ্ডা পানি দিয়ে ধুয়ে ফেললে দারুণ উপকার পাওয়া যায়।\n\n
+৩.  লিচু শরীরের কোলেস্টেরলের মাত্রা কমাতে এবং  চর্বি কমাতে সাহায্য করে।\n\n
+৪.  লিচুতে আছে খাদ্য হজমকারী আঁশ, ভিটামিন এবং অ্যান্টি-অক্সিডেন্ট। \n\n
+৫. লিচুতে রয়েছে ভিটামিন ‘সি’ যা ত্বক, দাঁত ও হাড়ের জন্য উপকারী। প্রতি ১০০ গ্রাম লিচুতে ৩১ মি.গ্রা ভিটামিন সি পাওয়া যায়। নানারকম চর্মরোগ ও স্কার্ভি রোগ দূর করতে সাহায্য করে ।\n\n
+৬. লিচু মানবদেহে ক্যান্সার হওয়ার প্রবণতাও হ্রাস করে। ক্যান্সার সৃষ্টিকারী কোষ ধ্বংস করে। এতে অবস্থিত ফ্ল্যাভানয়েডস নামক উপাদান স্তন ক্যান্সার প্রতিরোধ করতে সাহায্য করে ।\n\n"></TextView>
+
+<TextView
+                android:textSize="18sp"
+    android:textStyle="bold"
+            android:textColor="#ea1f1b"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+    android:layout_marginRight="5dp"
+    android:layout_marginLeft="5dp"
+
+            android:text="মাত্রাতিরিক্ত লিচু খেলে যেসব পার্শ্বপ্রতিক্রিয়া হতে পারে:\n "> </TextView>
+
+            <TextView
+                android:textSize="18sp"
+                android:textColor="#000000"
+                android:layout_marginRight="5dp"
+                android:layout_marginLeft="5dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="
+
+১. লিচু আমাদের রক্তের গ্লুকোজ কমাতে সহায়তা করে। তাই  বেশি পরিমাণে  লিচু খেলে তা হাইপোগ্লাইসেমিয়া করতে পারে বিশেষ করে ইফতারের সময় এমনটি করলে। যাদের ডায়াবেটিস আছে, এবং ওষুধের মাধ্যমে নিয়ন্ত্রণ করেন তারা লিচু গ্রহণে সাবধান থাকা উচিত। কারণ ওষুধ এমনিতেই রক্তে গ্লুকোজ কমিয়ে দেয় এর সাথে লিচুও যদি একই কাজ করে তাহলে যেকোনো বিপত্তি ঘটতে পারে।\n\n
+২.  ছোট বাচ্চাদের লিচু কোনও অবস্থাতেই খালি পেটে খাওয়া উচিত নয়। কারণ এতে পরিণাম ভয়াবহ হতে পারে ।\n\n
+৩.  মাত্রাতিরিক্ত লিচু খেলে রক্তচাপ অস্বাভাবিকভাবে কমে যেতে পারে। লক্ষণ হিসাবে শ্বাসকষ্ট হওয়া, বুক ধড়ফড় করা, মাতাহ ঘুরানো, বমি ভাব ইত্যাদি হতে পারে।৪.  বেশি পরিমাণে লিচু খেলে  শরীরের স্বাভাবিক তাপমাত্রার ব্যালেন্স নষ্ট হয় যার  ফলে গলা ব্যাথা হওয়া, মুখের ভিতরে ক্ষত হওয়া এমন কি নাক দিয়ে রক্তপাতও হতে পারে।\n\n
+৫. রক্তচাপ এবং রক্তের গ্লুকোজের ওপর সরাসরি প্রভাব থাকাতে যাদের সার্জারির প্রয়োজন তারা সার্জারির পূর্বের দুই সপ্তাহ এবং পরের দুই সপ্তাহ লিচু খাওয়া থেকে বিরত থাকা উচিত।\n\n">
+
+            </TextView>
+        </LinearLayout>
+    </ScrollView>
+
+
+
+
+</LinearLayout>

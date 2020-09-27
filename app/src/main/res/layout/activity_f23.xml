@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".f23">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <TextView
+                android:textSize="18sp"
+                android:textColor="#008000"
+                android:textStyle="bold"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:text="কুলে যত উপকার:\n"> </TextView>
+
+            <TextView
+                android:textSize="18sp"
+                android:textColor="#000000"
+                android:layout_marginRight="5dp"
+                android:layout_marginLeft="5dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="
+১. কুলের উপাদানগুলো শরীরে শক্তি জোগায়। অবসাদ কেটে যায় দ্রুত। তাই যাঁরা অবসাদে ভুগছেন, তাঁরা বরই খেতে পারেন।\n\n
+২. কুলে রয়েছে প্রচুর পরিমাণে ভিটামিন সি। ফলে এটি সংক্রামক রোগ দূর করতে সহায়তা করে। যেমন: টনসিলাইটিস, ঠোঁটের কোণে ঘা, জিহ্বায় ঘা, ঠোঁটের চামড়া উঠে যাওয়া ইত্যাদি দূর করে।\n\n
+৩. কুলের রসকে ক্যানসাররোধী হিসেবে গণ্য করা হয়। এই ফলের রয়েছে ক্যানসার কোষ, টিউমার কোষ ও লিউকেমিয়ার বিরুদ্ধে লড়াই করার অসাধারণ ক্ষমতা।\n\n
+৪. যকৃতের নানা রোগ প্রতিরোধে সহায়তা করে এই ফল। যকৃতের কাজ করার ক্ষমতা বাড়িয়ে তোলে।\n\n
+৫. কুল অত্যন্ত চমৎকার একটি রক্ত বিশুদ্ধকারক। উচ্চরক্তচাপ ও ডায়াবেটিস রোগীদের জন্য টক বরই উপকারী ফল। ডায়রিয়া, ক্রমাগত মোটা হয়ে যাওয়া, রক্তশূন্যতা, ব্রঙ্কাইটিস ইত্যাদি রোগ নিরাময়ে কাজ দেয় এই ফল।\n\n
+৬. মৌসুমি জ্বর, সর্দি-কাশিও প্রতিরোধ করে কুল। এ ছাড়া হজমশক্তি বৃদ্ধি ও খাবারে রুচি বাড়িয়ে তোলে এ ফল।\n\n
+৭. বরই অ্যান্টিঅক্সিডেন্টসমৃদ্ধ। এটি যকৃতে সুরক্ষা বর্ম তৈরি করে এবং ক্যানসারের বিরুদ্ধেও লড়তে পারে।\n\n
+৮. বরই বুড়িয়ে যাওয়া ঠেকায়। বরই বয়সের ছাপ পড়তে বাধা দেয় শরীরে।\n\n
+৯. ত্বকের রুক্ষতা দূর করে ত্বককে কোমল করে বরই। রোদে পোড়া ত্বক সুরক্ষার কাজেও কার্যকর।\n\n
+১০. বরই কোষ্ঠকাঠিন্যসহ অন্যান্য হজমজনিত সমস্যার সমাধান করে। ক্ষুধাবর্ধক হিসেবে কাজ করে।\n\n">
+
+            </TextView>
+        </LinearLayout>
+    </ScrollView>
+
+
+
+</LinearLayout>
+

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.ghuri.fruitsbenefit">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".f10"
+            android:parentActivityName=".MainActivity"></activity>
+        <activity android:name=".contact"
+            android:parentActivityName=".MainActivity"/>
+        <activity android:name=".about"
+            android:parentActivityName=".MainActivity"/>
+        <activity android:name=".f24"
+           android:parentActivityName=".fruitlist"/>
+        <activity android:name=".f23"
+            android:parentActivityName=".fruitlist"/>
+        <activity android:name=".f22"
+            android:parentActivityName=".fruitlist"/>
+        <activity android:name=".f21"
+            android:parentActivityName=".fruitlist"/>
+        <activity android:name=".f20"
+            android:parentActivityName=".fruitlist"/>
+        <activity android:name=".f19"
+            android:parentActivityName=".fruitlist"/>
+        <activity android:name=".f18"
+            android:parentActivityName=".fruitlist"/>
+        <activity android:name=".f17"
+            android:parentActivityName=".fruitlist"/>
+        <activity android:name=".f16"
+            android:parentActivityName=".fruitlist"/>
+        <activity android:name=".f15"
+            android:parentActivityName=".fruitlist"/>
+        <activity android:name=".f14"
+            android:parentActivityName=".fruitlist"/>
+        <activity android:name=".f13"
+            android:parentActivityName=".fruitlist"/>
+        <activity android:name=".f12"
+            android:parentActivityName=".fruitlist"/>
+        <activity android:name=".f11"
+            android:parentActivityName=".fruitlist"/>
+        <activity android:name=".f9"
+            android:parentActivityName=".fruitlist"/>
+        <activity android:name=".f8"
+            android:parentActivityName=".fruitlist"/>
+        <activity android:name=".f7"
+            android:parentActivityName=".fruitlist"/>
+        <activity android:name=".f6"
+            android:parentActivityName=".fruitlist"/>
+        <activity android:name=".f5"
+            android:parentActivityName=".fruitlist"/>
+        <activity android:name=".f4"
+            android:parentActivityName=".fruitlist"/>
+        <activity android:name=".f3"
+            android:parentActivityName=".fruitlist"/>
+        <activity android:name=".f2"
+            android:parentActivityName=".fruitlist"/>
+        <activity android:name=".f1"
+            android:parentActivityName=".fruitlist"/>
+        <activity android:name=".fruitlist" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

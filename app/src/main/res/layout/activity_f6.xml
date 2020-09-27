@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".f6">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <TextView
+                android:textSize="18sp"
+                android:textColor="#008000"
+                android:textStyle="bold"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:text="পেঁপেতে যত উপকার:\n"> </TextView>
+
+            <TextView
+                android:textSize="18sp"
+                android:textColor="#000000"
+                android:layout_marginRight="5dp"
+                android:layout_marginLeft="5dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="
+১. মাঝারি আকারের একটি পেঁপেতে মাত্র ১২০ ক্যালরি থাকে। এ ছাড়া এর যে পাচক তন্তু থাকে, তা হজমে সহায়তা করে।\n\n
+২.  পেঁপে খেতে মিষ্টি স্বাদের হলেও এতে চিনির পরিমাণ কম থাকে। এক কাপ টুকরো করা পেঁপেতে ৮ দশমিক ৩ গ্রাম চিনি থাকে। ডায়াবেটিস প্রতিরোধক উপাদান আছে পেঁপেতে।\n\n
+৩. পেঁপেতে আছে ক্যারোটিনাইডস নামের উপাদান, যা চোখের জন্য উপকারী।এ ছাড়া চোখের মিউকাস মেমব্রেনকে সবল করতে ও ক্ষতির হাত থেকে রক্ষা করতে যে ধরনের উপাদান দরকার, পেঁপেতে তা অধিক পরিমাণে থাকে। বিশেষ করে বেটা ক্যারোটিন, জিয়াক্সনাথিন ও লুটেইনের মতো উপাদানগুলো পেঁপেতে বিদ্যমান।\n\n
+৪. ভিটামিন ‘এ’ আর প্যাপিন নামের উপাদান আছে পেঁপেতে, যা শরীরের ত্বকের মৃত কোষগুলো সরিয়ে ফেলতে সাহায্য করে। শরীরের নিষ্ক্রিয় প্রোটিন ভেঙে ফেলে এবং কম মাত্রায় সোডিয়াম ত্বককে আর্দ্র রাখে।\n\n
+৫. পেঁপেতে প্যাপিন এনজাইম থাকায় তা খাদ্যের বিপাক প্রক্রিয়ায় সাহায্য করে। এটি মাংস নরম করতেও ব্যবহৃত হয়। এতে তন্তু ও পানির পরিমাণ বেশি থাকায় কোষ্ঠকাঠিন্য দূর করে।\n\n
+৬.  হৃদস্বাস্থ্য সুরক্ষায় এবং উচ্চরক্তচাপ এড়াতে পেঁপে সাহায্য করে ।\n\n
+৭. শরীরের মেদ ঝরাতে যাঁরা তৎপর, তাঁদের খাদ্যতালিকায় পেঁপে রাখুন। একদিকে যেমন কম ক্যালরি আছে, অন্যদিকে থাকা আঁশ পেট ভরা রাখতে সাহায্য করে। তাই ওজন নিয়ন্ত্রণে সবজি হিসেবে পেঁপে অনন্য।  \n\n
+৮. দেহের রোগ প্রতিরোধব্যবস্থা জোরদারে ভূমিকা রাখে পেঁপে। নিয়মিত পেঁপে খেলে সাধারণ রোগবালাই দূরেই থাকে। কোলন ও প্রোস্টেট ক্যানসার প্রতিরোধে এটি উপকারী। হজমশক্তি বাড়াতে এবং পেটের গোলযোগ এড়াতেও খেতে পারেন পেঁপে।\n\n">
+
+            </TextView>
+        </LinearLayout>
+    </ScrollView>
+
+
+
+</LinearLayout>
+

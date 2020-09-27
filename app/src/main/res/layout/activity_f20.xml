@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".f20">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <TextView
+                android:textSize="18sp"
+                android:textColor="#008000"
+                android:textStyle="bold"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:text="জামে যত উপকার:\n"> </TextView>
+
+            <TextView
+                android:textSize="18sp"
+                android:textColor="#000000"
+                android:layout_marginRight="5dp"
+                android:layout_marginLeft="5dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="
+১.  জামে প্রচুর পরিমাণে আয়রন থাকে। আর আয়রন থাকার ফলে রক্তে হিমোগ্লোবিন বেড়ে যায়। ফলে রক্ত পরিষ্কার রাখতে সাহায্য করে। যারা রক্তস্বল্পতায় ভুগছেন তাদের জন্য জাম খুবই ভালো।\n\n
+২.  জামে ভিটামিন 'এ' আর 'সি' আছে। এছাড়াও এতে থাকে বিভিন্ন মিনারেল, যা আমাদের চোখ এবং ত্বকের জন্য খুব উপকারী।\n\n
+৩.  জাম খেলে পেট ঠান্ডা হয়, ফলে দ্রুত হজম হয়ে যায়। যাদের অম্বলের সমস্যা আছে, তারা বেশি করে জাম খেলে উপকার পাবেন। অ্যাসট্রিনজেন্ট প্রপার্টি থাকার ফলে জাম ত্বক অয়েল ফ্রি রাখে। এছাড়াও অ্যাকনে আর কালো ছোপ দূর হয়।\n\n
+৪. জামে উপস্থিত অক্সিলিক অ্যাসিড‚ গ্যালিক অ্যাসিড‚ ম্যালিক অ্যাসিড‚ ট্যানিন‚ বেটুলিক অ্যাসিড ইনফেকশন দূরে রাখে। এছাড়াও জাম অ্যান্টি ম্যালেরিয়াল এবং অ্যান্টি ব্যাকটেরিয়ালও।\n\n
+৫. দাঁত এবং মাড়ি ভালো থাকে। এছাড়াও মুখের দুর্গন্ধ দূরে রাখতেও সাহায্য করে।\n\n
+৬. জামে উচ্চ মাত্রায় ভিটামিন সি থাকে। ফলে শরীর ইমিউনিটি বাড়িয়ে দেয়। শরীরকে কমন সিজনাল ডিজিজ এর হাত থেকে রক্ষা করে। জামের মধ্যে উপস্থিত পটাসিয়াম হার্ট ভালো রাখতে সাহায্য করে। একই সঙ্গে উচ্চ রক্ত চাপ কমিয়ে কার্ডিও ভাসকুলার ডিজিজ দূরে রাখে।\n\n
+৭.  যাদের ডায়বেটিস হয়েছে তাদের জন্য জাম খুব ভালো। এতে অ্যান্টি ডায়েবেটিক প্রপার্টি আছে যা রক্তে চিনির মাত্রা কমায়।\n\n
+৮. এই ফলের গ্লাইসেমিক ইনডেক্স কম হওয়ার ফলে রক্তে চিনির মাত্রা নিয়ন্ত্রিত থাকে। এছাড়াও অতিরিক্ত তেষ্টা পাওয়া বা বারবার মূত্রত্যাগ যা ডায়বেটিসের লক্ষণ এগুলো ও নিয়ন্ত্রণে রাখে। শুধু ফল নয়‚ এই গাছের পাতা‚ ডাল‚ ফলের বিচি সব কিছু দিয়েই ডায়েবেটিসের ট্রিটমেন্ট করা হয়।\n\n
+">
+
+            </TextView>
+        </LinearLayout>
+    </ScrollView>
+
+
+
+</LinearLayout>

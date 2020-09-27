@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".f24">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <TextView
+                android:textSize="18sp"
+                android:textColor="#008000"
+                android:textStyle="bold"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:text="জলপাইয়ে যত উপকার:\n"> </TextView>
+
+            <TextView
+                android:textSize="18sp"
+                android:layout_marginRight="5dp"
+                android:layout_marginLeft="5dp"
+                android:textColor="#000000"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="
+১. শীতকালে সকলেরই প্রায়ই ঠান্ডা-জ্বর,কাশি লেগেই থাকে সেক্ষেত্রে জলপাই খুব উপকারী। তাই নিয়ম করে প্রতিদিন খাওয়ার পর জলপাইয়ের আচার বা জলপাইয়ের তেল খেলে শরীর ভালো থাকবে। জলপাইয়ে প্রচুর পরিমাণে রয়েছে ভিটামিন-সি। যা খেলে শরীরে অ্যান্টিবডির সৃষ্টি করে, ফলে শরীরে রোগ-প্রতিরোধ ক্ষমতার সৃষ্টি হয়।\n\n
+২. জলপাই প্রতিদিন ১টি করে খেলে ভিটামিন সি এর অভাব দূর হয়। শীতে মানুষের শরীরের তাপমাত্রা কমে আসে। ফলে ভিটামিন সি শীতকালে মানুষের বেশী প্রয়োজন।\n\n
+৪. ভিটামিন সি এর পাশাপাশি জলপাইয়ে আছে ভিটামিন এ। যা কিনা চোখের জন্য খুবই উপকারী। তাই চোখের দৃষ্টি শক্তি বাড়াতে প্রয়োজন জলপাই নিয়ম করে খাওয়া।\n\n
+৫. জলপাইয়ে আছে ভিটামিন ই। যা শরীরের হাঁড় ও দাঁত মজবুত রাখে। জলপাইয়ের ভিটামিন ই শরীরের নানা রোগ-প্রতিরোধে বাধা দেয়। ফলে ক্যান্সার রোগ হয় না। তাই জলপাই খাওয়া প্রয়োজন আমাদের সকলেরই।\n\n
+৫. জলপাই ক্ষয় ধরণের রোগে প্রতিষেধক হিসেবে কাজ করে। এলঝাইমার বা স্মৃতি ভুলে যাওয়া রোগীদের জন্য উপকারী। শরীরের যে কোন টিউমারের বৃদ্ধি, রক্তনালীর ক্ষত ও স্ফীত হওয়া ঠেকায় জলপাই।\n\n
+৬. এমনকি রান্নায়ও অলিভ অয়েল ব্যবহার করা যায়। জলপাইয়ের তেল সয়াবিনের থেকে ভালো। এতে কোনো সাইড ইফেক্ট নেই। হৃদযন্ত্রের জন্যও ভালো জলপাই। অলিভ ওয়েল রান্নায় ব্যবহার করলে মেদ জমবে না। কারণ এই তেল কোলস্টেলর তৈরিতে বাধা দেয়। ফলে উচ্চ রক্তচাপ থেকেও রক্ষা করে অলিভ ওয়েল।\n\n
+৭. জলপাইয়ে আছে আয়রন,যা শরীরকে তরতাজা করে। তাই আয়রনের অভাব দুর করতে প্রয়োজন রোজ জলপাই খাওয়া।\n\n
+৮. জলপাই চুলকে রাখে প্রাণবন্ত এবং ত্বকে করে মসৃণ। জলপাই খাবার হজমে খুব ভালো কাজ করে।\n\n
+৯. কোনো কারণে কোথাও কেটে গেলে বা ঘাঁ হলে জলপাই এই ইনফেকশন সারাতে এন্টিবায়োটিক হিসেবে কাজ করে।\n\n
+১০. জলপাই রক্তস্বল্পতা দূর করতে সাহায্য করে। নারীদের প্রজনন ক্ষমতা বাড়ায়। এছাড়া সোডিয়াম, পটাশিয়াম, ম্যাগনেশিয়াম পেতে জলপাই খাওয়া উচিত।\n\n">
+
+            </TextView>
+        </LinearLayout>
+    </ScrollView>
+
+
+
+</LinearLayout>
+

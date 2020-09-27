@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".f17">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <TextView
+                android:textSize="18sp"
+                android:textColor="#008000"
+                android:textStyle="bold"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:text="তরমুজে যত উপকার:\n"> </TextView>
+
+            <TextView
+                android:textSize="18sp"
+                android:textColor="#000000"
+                android:layout_marginRight="5dp"
+                android:layout_marginLeft="5dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="
+১. তরমুজে খুব সামান্য ক্যালরি আছে। তাই তরমুজ খেলে ওজন বৃদ্ধি পাওয়ার কোনো আশঙ্কা থাকে না। তরমুজের ৯২ শতাংশই পানি। শরীরে পানির অভাব পূরণে ফলের মধ্যে তরমুজই হলো আদর্শ ফল।\n\n
+২.  তরমুজে আছে পর্যাপ্ত ভিটামিন এ, সি, পটাশিয়াম ও আঁশ। মওসুমি এই ফলটির রয়েছে নানা রোগ প্রতিরোধ ক্ষমতা। \n\n
+৩. তরমুজ হলো ভিটামিন ‘বি৬’-এর চমৎকার উৎস, যা মস্তিষ্ক সচল রাখতেও গুরুত্বপূর্ণ ভূমিকা রাখে। \n\n
+৪. তরমুজে প্রচুর পরিমাণে অ্যান্টিঅক্সিডেন্ট থাকায় এটি খেলে দেহের অক্সিডেটিভ স্ট্রেসজনিত অসুস্থতা কমে। এই ফলটি নিয়মিত খেলে প্রোস্টেট ক্যান্সার, কোলন ক্যান্সার, ফুসফুসের ক্যান্সার ও ব্রেস্ট ক্যান্সারের ঝুঁকি থাকে না।\n\n
+৫. তরমুজের আরো একটি গুণ হলো এটি চোখ ভালো রাখতে কাজ করে। তরমুজে ক্যারোটিনয়েড থাকায় এ ফলটি চোখ ও দৃষ্টিশক্তি ভালো রাখে। একইসঙ্গে চোখের নানা সমস্যার প্রতিষেধক হিসেবেও কাজ করে তরমুজ। চিকিৎসকেরা বলেন, ক্যারোটিনয়েড রাতকানা প্রতিরোধে কার্যকরী ভূমিকা রাখে। \n\n
+৬. তরমুজে প্রচুর পানি এবং কম ক্যালরি থাকায় পেট পুরে তরমুজ খেলেও ওজন বাড়ার কোনো আশঙ্কা থাকে না। \n\n
+৭. একাধিক গবেষণায় দেখা গেছে, তরমুজে থাকা উচ্চ পরিমাণে সিট্রুলিন মানব দেহের ধমনির কার্যক্রম স্বাভাবিক রাখে এবং রক্তচাপ কমিয়ে দেয়।\n\n">
+
+            </TextView>
+        </LinearLayout>
+    </ScrollView>
+
+
+
+</LinearLayout>
+
